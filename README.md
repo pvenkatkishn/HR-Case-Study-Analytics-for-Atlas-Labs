@@ -16,7 +16,9 @@ Performed data modeling, created DAX queries and complex data visualizations to 
 
 <h3>Dashboards</h3>
 
-![Atlas_Labs_Report_4_page-0001](https://github.com/user-attachments/assets/f815d117-e367-4cce-bb63-940400249dbe)
-![Atlas_Labs_Report_3_page-0001](https://github.com/user-attachments/assets/8a2c6300-a903-464e-924d-1a0b34b9a552)
-![Atlas_Labs_Report_2_page-0001](https://github.com/user-attachments/assets/cf508144-3db3-4cdc-84b3-289ba8757c87)
 ![Atlas_Lab_Report_1](https://github.com/user-attachments/assets/2314e808-6d4d-4f7c-a5fa-ef73ed8de894)
+![Atlas_Labs_Report_2_page-0001](https://github.com/user-attachments/assets/cf508144-3db3-4cdc-84b3-289ba8757c87)
+![Atlas_Labs_Report_3_page-0001](https://github.com/user-attachments/assets/8a2c6300-a903-464e-924d-1a0b34b9a552)
+![Atlas_Labs_Report_4_page-0001](https://github.com/user-attachments/assets/f815d117-e367-4cce-bb63-940400249dbe)
+
+
